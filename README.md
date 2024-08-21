@@ -1,4 +1,4 @@
-Flipkart Login Page Layout
+**Flipkart Login Page Layout
 This project is a simple implementation of a Flipkart-like login page using HTML and CSS. The page is divided into two main sections: a left-side section with login information and an image, and a right-side section containing the input fields and buttons.
 
 File Structure
@@ -30,3 +30,4 @@ Customization
 Image: Replace the ssflip.jpg image with any other image to customize the look of the left section.
 Colors: Modify the color values in the CSS to match your branding or preference.
 Text: Update the text content within the HTML to reflect the correct information for your project.
+******
